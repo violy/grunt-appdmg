@@ -35,18 +35,18 @@
     "tasks"
   ],
   "dependencies": {
-    "appdmg": "^0.4.5",
-    "chalk": "^1.0.0",
-    "repeat-string": "^1.5.4"
+    "appdmg": "^0.6.0",
+    "chalk": "^2.4.2",
+    "repeat-string": "^1.6.1"
   },
   "devDependencies": {
-    "eslint": "^3.16.1",
-    "eslint-config-xo-space": "^0.16.0",
-    "grunt": "^1.0.0",
-    "grunt-contrib-clean": "^1.0.0",
-    "grunt-contrib-nodeunit": "^1.0.0",
-    "grunt-eslint": "^19.0.0",
-    "load-grunt-tasks": "^3.1.0"
+    "eslint": "^6.0.1",
+    "eslint-config-xo-space": "^0.21.0",
+    "grunt": "^1.0.4",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-nodeunit": "^2.0.0",
+    "grunt-eslint": "^21.1.0",
+    "load-grunt-tasks": "^5.0.0"
   },
   "eslintConfig": {
     "extends": "xo-space",
